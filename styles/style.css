@@ -240,8 +240,8 @@ z-index: 2;
 	background: #FFFFFF;
 	display: flex;
 	flex-direction: row;
-	align-items: center;	
-	flex-wrap: wrap;
+	align-items: flex-start;	
+	
 }
 .pitomec2 {
 	position: relative;
@@ -266,7 +266,6 @@ min-width: calc(60%);
 	transform: rotate(180deg);  
 	border-top-right-radius: 50%;
 	border-bottom-right-radius: 50%;
-	overflow: hidden;
 	background-size: cover;
 	background-color: #FFC41E;
 	
