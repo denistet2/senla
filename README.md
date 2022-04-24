@@ -5,4 +5,4 @@
 - 💞️ I want to collaborate on progressive modern projects
 - 📫 +375-29-1961635 denistet@gmail.com
 [https://htmlacademy.ru/profile/id141731](https://htmlacademy.ru/profile/id141731)
-https://senla-students-site.netlify.app/
+[https://senla-students-site.netlify.app/)
